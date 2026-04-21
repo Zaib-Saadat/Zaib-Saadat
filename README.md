@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaib Saadat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Developer+(HTML+CSS+Tailwind+Bootstrap);Debugger+%7C+Project+Builder;Ready+for+Professional+Work+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+(HTML+CSS+Tailwind+Bootstrap);Debugger+%7C+Project+Builder;Ready+for+Professional+Work+" />
 </p>
 
 ---
@@ -18,14 +18,13 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-ffb6c1?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/C%23-ffc0cb?style=for-the-badge&logo=csharp" />
-  <img src="https://img.shields.io/badge/JavaScript-ffd1dc?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML-ffb6c1?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-ffc0cb?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/TailwindCSS-ffe4e1?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Bootstrap-ffb6c1?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/Python-ffd1dc?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-0F8F8C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0F8F8C&color=0F8F8C" />
+  <img src="https://img.shields.io/badge/C%23-0F8F8C?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0F8F8C&color=0F8F8C" />
+  <img src="https://img.shields.io/badge/JavaScript-0F8F8C?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0F8F8C&color=0F8F8C" />
+  <img src="https://img.shields.io/badge/HTML-0F8F8C?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F8F8C&color=0F8F8C" />
+  <img src="https://img.shields.io/badge/CSS-0F8F8C?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F8F8C&color=0F8F8C" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0F8F8C?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0F8F8C&color=0F8F8C" />
+  <img src="https://img.shields.io/badge/Bootstrap-0F8F8C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0F8F8C&color=0F8F8C" />
 </p>
 
 ---
