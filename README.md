@@ -65,12 +65,13 @@
 ## What I Do
 <p>Hire me to find out :)</p>
 
-
+---
 ## Coding Vibes 🐾
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN4YmQ0bHJnOXM5cWE2cXl2M2dwcHBhZWZhbTd4c2h0YXNjdzUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QP77j3YqAtLuDyhHzL/giphy.gif" width="80%" />
 </p>
 
+---
 
 <h2>Connect With Me</h2>
 
