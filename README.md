@@ -3,8 +3,8 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pIZgHkzHAdVIX3ea_ZvBw5lav-kRsNUsI6OAFZCX1oN10bOWFjWA-BrQwzYc9xM7wjHutb5Ev6CQRQeqNQEm6vcJ-iEycbU8JP7NIhqgON_ldA1eQyIXoTwoEcOh0eoTyd9DjV85RsQ/s0-e90-rw/Flag_of_Pakistan.gif" width="40"/>
 </h1>
 
-<<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0F8F8C&center=true&vCenter=true&speed=30&pause=1000&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0F8F8C&center=true&vCenter=true&speed=20&pause=1000&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" /> 
 </p>
 
 ---
