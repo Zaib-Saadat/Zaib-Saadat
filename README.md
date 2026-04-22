@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zaib Saadat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&center=true&vCenter=true&speed=50&pause=1200&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0F8F8C&center=true&vCenter=true&speed=50&pause=1200&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ Hire me to find out :)
   <img src="https://komarev.com/ghpvc/?username=Zaib-Saadat&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
----
+
 
 ## ✨ Mindset
 > I don’t just learn — I struggle, debug at 3AM, question my life choices… and still somehow make it work 😌🚀
