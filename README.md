@@ -27,7 +27,6 @@
 
 ---
 
-## GitHub Stats 
 <h2>GitHub Stats</h2>
 
 <p align="center">
