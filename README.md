@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm Zaib Saadat 
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50"/>
 </h1>
 
 <p align="center">
@@ -28,7 +28,7 @@
 ---
 
 ## GitHub Stats 
-<h2 align="center">📊 GitHub Stats 🐱💖</h2>
+<h2>GitHub Stats</h2>
 
 <p align="center">
   <a href="#">
@@ -72,7 +72,7 @@
 </p>
 
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2>Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zaib-saadat-0937b8381" target="_blank">
