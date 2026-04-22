@@ -10,15 +10,20 @@
 ---
 
 ## About Me
-- Web Developer with hands-on project experience  
-- Strong foundation in **C++, C#, JavaScript, and Python (basics)**  
-- Skilled in **HTML, CSS, Tailwind CSS, and Bootstrap**  
-- Experience with **JavaScript-based applications**  
-- Focused on building real-world projects and solutions  
-- Reliable, creative, and always improving  
+I'm a web developer from Pakistan with hands-on experience building real-world projects. I started with C++ and C#, moved into JavaScript and frontend development, and I'm always working on something new.
+
+- I build clean, functional UIs with HTML, CSS, Tailwind CSS, and Bootstrap
+- Strong foundation in C++, C#, and JavaScript
+- Currently learning React and expanding into Node.js + MongoDB
+- Open to freelance work, collaborations, and junior dev roles
+📍 Based in Pakistan
+
 
 ---
+Projects
+ProjectDescriptionTech StackProject NameShort description of what it doesJS, TailwindProject NameShort description of what it doesHTML, CSS, BootstrapProject NameShort description of what it doesC++, C#
 
+---
 <h2>Languages and Tools</h2>
 
 <p align="center">
@@ -60,9 +65,11 @@
 </p>
 
 ---
+Currently Learning
 
-## What I Do
-<p>Hire me to find out :)</p>
+⚛️ React — component-based UI development
+🌐 Node.js + Express — backend fundamentals
+🗄️ MongoDB — database integration with real apps
 
 ---
 ## Coding Vibes 🐾
