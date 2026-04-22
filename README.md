@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Zaib Saadat </h1>
+<h1 align="center">
+  Hi, I'm Zaib Saadat 
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30"/>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0F8F8C&center=true&vCenter=true&speed=50&pause=1200&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" />
@@ -16,7 +19,7 @@
 
 ---
 
-<h2 align="center">Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,tailwind,bootstrap,python,nodejs,mongodb,git,vscode" />
@@ -38,7 +41,7 @@
 
 ## What I Do
 <p>Hire me to find out :)</p>
----
+
 
 ## Coding Vibes 🐾
 <p align="center">
