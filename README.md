@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaib Saadat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+(HTML+CSS+Tailwind+Bootstrap);Debugger+%7C+Project+Builder;Ready+for+Professional+Work+" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript; Frontend+(HTML+CSS+Tailwind+Bootstrap);Debugger+%7C+Project+Builder;Ready+for+Professional+Work+" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats 🐱💖
+## 📊 GitHub Stats 🐱
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zaib-Saadat&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4" />
   <img src="https://streak-stats.demolab.com/?user=Zaib-Saadat&theme=rose-pine&ring=ff69b4&fire=ff69b4" />
@@ -47,7 +47,7 @@
 
 ## 🎥 Coding Vibes 🐾
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
+  <img src="[https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN4YmQ0bHJnOXM5cWE2cXl2M2dwcHBhZWZhbTd4c2h0YXNjdzUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QP77j3YqAtLuDyhHzL/giphy.gif)" width="400"/>
 </p>
 
 ---
