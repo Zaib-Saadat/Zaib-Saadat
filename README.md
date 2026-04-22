@@ -16,7 +16,7 @@ I'm a web developer from Pakistan with hands-on experience building real-world p
 - Strong foundation in C++, C#, and JavaScript
 - Currently learning React and expanding into Node.js + MongoDB
 - Open to freelance work, collaborations, and junior dev roles
-- 📍Based in Pakistan
+
 
 
 ---
@@ -67,9 +67,9 @@ I'm a web developer from Pakistan with hands-on experience building real-world p
 ---
 <h2>Currently Learning</h2>
 
--⚛️ React — component-based UI development
--🌐 Node.js + Express — backend fundamentals
--🗄️ MongoDB — database integration with real apps
+- ⚛️ React — component-based UI development
+- 🌐 Node.js + Express — backend fundamentals
+- 🗄️ MongoDB — database integration with real apps
 
 ---
 ## Coding Vibes 🐾
