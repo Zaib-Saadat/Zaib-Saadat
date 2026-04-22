@@ -106,6 +106,6 @@
 
 
 ## ✨ Mindset
-> I don’t just learn — I struggle, debug at 3AM, question my life choices… and still somehow make it work 😌🚀
+> I don’t just learn — I struggle, debug at 3AM, question my life choices… and still somehow make it work 😌
 
 ---
