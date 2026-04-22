@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zaib Saadat</h1>
+<h1 align="center">Hi, I'm Zaib Saadat </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0F8F8C&center=true&vCenter=true&speed=50&pause=1200&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" />
@@ -16,15 +16,10 @@
 
 ---
 
-## Skills
+<h2 align="center">Languages and Tools</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=FFB6C1&color=FFB6C1" />
-  <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=csharp&logoColor=white&labelColor=FFB6C1&color=FFB6C1" />
-  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFB6C1&color=FFB6C1" />
-  <img src="https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFB6C1&color=FFB6C1" />
-  <img src="https://img.shields.io/badge/CSS-FFB6C1?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFB6C1&color=FFB6C1" />
-  <img src="https://img.shields.io/badge/TailwindCSS-FFB6C1?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=FFB6C1&color=FFB6C1" />
-  <img src="https://img.shields.io/badge/Bootstrap-FFB6C1?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=FFB6C1&color=FFB6C1" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,tailwind,bootstrap,python,nodejs,mongodb,git,vscode" />
 </p>
 
 ---
@@ -36,24 +31,44 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50%"/>
 </p>
 
 ---
 
 ## What I Do
-Hire me to find out :)
+<p>Hire me to find out :)</p>
 ---
 
 ## Coding Vibes 🐾
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN4YmQ0bHJnOXM5cWE2cXl2M2dwcHBhZWZhbTd4c2h0YXNjdzUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QP77j3YqAtLuDyhHzL/giphy.gif" width="80%" />
 </p>
----
 
-## Contact Me
-- 📧 Email: saadatzaib@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/zaib-saadat-0937b8381  
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaib-saadat-0937b8381" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff85a2?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-87cefa?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="mailto:saadatzaib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
