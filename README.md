@@ -46,28 +46,7 @@ A console-based application that analyzes student submissions to detect plagiari
 
 <h2>GitHub Stats</h2>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Zaib-Saadat&show_icons=true&theme=transparent&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" 
-    height="170"
-  />
-  
-  <img 
-    src="https://streak-stats.demolab.com?user=Zaib-Saadat&theme=transparent&ring=ff69b4&fire=ff69b4&currStreakLabel=ffb6c1&background=0d1117" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaib-Saadat&layout=compact&theme=transparent&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" 
-    height="140"
-  />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25%"/>
-</p>
+<p align="center"> <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=Zaib-Saadat&show_icons=true&theme=transparent&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="170" /> </a> <a href="#"> <img src="https://streak-stats.demolab.com?user=Zaib-Saadat&theme=transparent&ring=ff69b4&fire=ff69b4&currStreakLabel=ffb6c1&background=0d1117" height="170" /> </a> </p> <p align="center"> <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaib-Saadat&layout=compact&theme=transparent&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="140" /> </a> </p> <!-- Cute sleepy cat vibe below stats --> <p align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25%"/> </p>
 
 ---
 <h2>Currently Learning</h2>
