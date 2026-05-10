@@ -21,7 +21,6 @@ I'm a web developer from Pakistan with hands-on experience building real-world p
 
 ---
 <h2>Projects</h2>
-## 🚀 Featured Projects
 
 ### 🔹 [USB Malware Detector](https://github.com/Zaib-Saadat/USB-malware-detector)
 A security-focused application that scans USB devices to detect and prevent potential malware threats, helping protect systems from unauthorized or malicious files.  
