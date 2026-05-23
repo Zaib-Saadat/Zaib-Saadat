@@ -57,12 +57,9 @@ A console-based application that analyzes student submissions to detect plagiari
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats-three-liard-11.vercel.app/api/top-langs/?username=Zaib-Saadat&layout=compact&theme=transparent&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="140" />
+    <img src="https://github-readme-stats-three-liard-11.vercel.app/api/top-langs/?username=Zaib-Saadat&layout=compact&theme=transparent&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" height="170" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25%"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="170" />
 </p>
 
 ---
