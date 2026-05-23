@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi, I'm Zaib Saadat 🇵🇰
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pIZgHkzHAdVIX3ea_ZvBw5lav-kRsNUsI6OAFZCX1oN10bOWFjWA-BrQwzYc9xM7wjHutb5Ev6CQRQeqNQEm6vcJ-iEycbU8JP7NIhqgON_ldA1eQyIXoTwoEcOh0eoTyd9DjV85RsQ/s0-e90-rw/Flag_of_Pakistan.gif" width="50"/>
+  Hi, I'm Zaib Saadat
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pIZgHkzHAdVIX3ea_ZvBw5lav-kRsNUsI6OAFZCX1oN10bOWFjWA-BrQwzYc9xM7wjHutb5Ev6CQRQeqNQEm6vcJ-iEycbU8JP7NIhqgON_ldA1eQyIXoTwoEcOh0eoTyd9DjV85RsQ/s0-e90-rw/Flag_of_Pakistan.gif" width="10%"/>
 </h1>
 
 <p align="center">
