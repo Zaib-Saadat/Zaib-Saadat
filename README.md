@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" /> </p> <h1 align="center"> Hi, I'm Zaib Saadat <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pIZgHkzHAdVIX3ea_ZvBw5lav-kRsNUsI6OAFZCX1oN10bOWFjWA-BrQwzYc9xM7wjHutb5Ev6CQRQeqNQEm6vcJ-iEycbU8JP7NIhqgON_ldA1eQyIXoTwoEcOh0eoTyd9DjV85RsQ/s0-e90-rw/Flag_of_Pakistan.gif" width="5%"/> </h1> <p align="center"> 
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=ff69b4&center=true&vCenter=true&pause=1000&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Web+Developer;Mobile+App+Developer;Open+Source+Contributor+%7C+Debugger;Ready+for+Professional+Work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&color=ff69b4&center=true&vCenter=true&pause=1000&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Web+Developer;Mobile+App+Developer;Open+Source+Contributor+%7C+Debugger;Ready+for+Professional+Work" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=80&section=footer" />
