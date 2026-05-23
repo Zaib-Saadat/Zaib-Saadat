@@ -81,12 +81,6 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ---
 
-## ✨ Mindset
-
-> I don't just learn — I struggle, debug at 3AM, question my life choices… and still somehow make it work 😌
-
----
-
 ## Connect With Me
 
 <p align="center">
@@ -99,9 +93,9 @@ A console-based application that analyzes student submissions to detect plagiari
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-87cefa?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=saadatzaib@gmail.com">
+ <a href="https://mail.google.com/mail/?view=cm&to=saadatzaib@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+</a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -114,3 +108,9 @@ A console-based application that analyzes student submissions to detect plagiari
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zaib-Saadat&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
+
+---
+
+## ✨ Mindset
+
+> I don't just learn — I struggle, debug at 3AM, question my life choices… and still somehow make it work :')
