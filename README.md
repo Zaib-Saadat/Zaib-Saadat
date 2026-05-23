@@ -96,9 +96,9 @@ A console-based application that analyzes student submissions to detect plagiari
     <img src="https://img.shields.io/badge/Facebook-87cefa?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="mailto:saadatzaib@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=saadatzaib@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+</a>
 
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white"/>
