@@ -1,15 +1,16 @@
 <h1 align="center">
-  Hi, I'm Zaib Saadat 
+  Hi, I'm Zaib Saadat
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pIZgHkzHAdVIX3ea_ZvBw5lav-kRsNUsI6OAFZCX1oN10bOWFjWA-BrQwzYc9xM7wjHutb5Ev6CQRQeqNQEm6vcJ-iEycbU8JP7NIhqgON_ldA1eQyIXoTwoEcOh0eoTyd9DjV85RsQ/s0-e90-rw/Flag_of_Pakistan.gif" width="40"/>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0F8F8C&center=true&vCenter=true&speed=10&pause=1000&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=0F8F8C&center=true&vCenter=true&speed=10&pause=1000&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" />
 </p>
 
 ---
 
-## About Me
+## 👤 About Me
+
 I'm a web developer from Pakistan with hands-on experience building real-world projects. I started with C++ and C#, moved into JavaScript and frontend development, and I'm always working on something new.
 
 - I build clean, functional UIs with HTML, CSS, Tailwind CSS, and Bootstrap
@@ -17,9 +18,8 @@ I'm a web developer from Pakistan with hands-on experience building real-world p
 - Currently learning React and expanding into Node.js + MongoDB
 - Open to freelance work, collaborations, and junior dev roles
 
-
-
 ---
+
 ## 🚀 Projects
 
 ### 🔹 [USB Malware Detector](https://github.com/Zaib-Saadat/USB-malware-detector)
@@ -44,7 +44,7 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ---
 
-<h2>GitHub Stats</h2>
+## 📈 GitHub Stats
 
 <p align="center">
   <a href="#">
@@ -61,45 +61,49 @@ A console-based application that analyzes student submissions to detect plagiari
   </a>
 </p>
 
-<!-- Cute sleepy cat vibe below stats -->
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25%"/>
 </p>
 
 ---
-<h2>Currently Learning</h2>
+
+## 📚 Currently Learning
 
 - ⚛️ React — component-based UI development
 - 🌐 Node.js + Express — backend fundamentals
 - 🗄️ MongoDB — database integration with real apps
 
 ---
-## Coding Vibes 🐾
+
+## 🐾 Coding Vibes
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN4YmQ0bHJnOXM5cWE2cXl2M2dwcHBhZWZhbTd4c2h0YXNjdzUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QP77j3YqAtLuDyhHzL/giphy.gif" width="80%" />
 </p>
 
 ---
 
-<h2>Connect With Me</h2>
+## ✨ Mindset
+
+> I don't just learn — I struggle, debug at 3AM, question my life choices… and still somehow make it work 😌
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zaib-saadat-0937b8381" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff85a2?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-87cefa?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-
-<a href="https://mail.google.com/mail/?view=cm&to=saadatzaib@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=saadatzaib@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -107,14 +111,8 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ---
 
-## Profile Views
+## 👁️ Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zaib-Saadat&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
-
-
-
-## ✨ Mindset
-> I don’t just learn — I struggle, debug at 3AM, question my life choices… and still somehow make it work 😌
-
----
