@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Zaib%20Saadat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 </p>
 
-<h1 align="center">
-  Hi, I'm Zaib Saadat 🇵🇰
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=ff69b4&center=true&vCenter=true&pause=1000&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" />
 </p>
