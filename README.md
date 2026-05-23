@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Zaib%20Saadat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 </p>
 
 <p align="center">
