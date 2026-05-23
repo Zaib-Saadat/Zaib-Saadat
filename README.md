@@ -1,4 +1,16 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,b44fff,4f8fff&height=120&section=header&animation=fadeIn" />
+</p>
+
+<h1 align="center">
+  Hi, I'm Zaib Saadat
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=b44fff&center=true&vCenter=true&pause=1000&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" />
+</p>
+
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 </p>
 <h1 align="center">
@@ -7,7 +19,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=ff69b4&center=true&vCenter=true&pause=1000&lines=Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Building+Projects;C%2B%2B+%7C+C%23+%7C+JavaScript;Frontend+Dev;HTML+CSS+Tailwind+Bootstrap;Debugger+%7C+Project+Builder;Ready+for+Professional+Work" />
-</p>
+</p> -->
+
+
+
+
 <!-- <h1 align="center">
   Hi, I'm Zaib Saadat
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pIZgHkzHAdVIX3ea_ZvBw5lav-kRsNUsI6OAFZCX1oN10bOWFjWA-BrQwzYc9xM7wjHutb5Ev6CQRQeqNQEm6vcJ-iEycbU8JP7NIhqgON_ldA1eQyIXoTwoEcOh0eoTyd9DjV85RsQ/s0-e90-rw/Flag_of_Pakistan.gif" width="5%"/>
