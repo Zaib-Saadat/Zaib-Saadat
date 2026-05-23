@@ -20,7 +20,7 @@ I'm a web developer from Pakistan with hands-on experience building real-world p
 
 
 ---
-<h2>Projects</h2>
+## 🚀 Projects
 
 ### 🔹 [USB Malware Detector](https://github.com/Zaib-Saadat/USB-malware-detector)
 A security-focused application that scans USB devices to detect and prevent potential malware threats, helping protect systems from unauthorized or malicious files.  
@@ -35,7 +35,8 @@ A console-based application that analyzes student submissions to detect plagiari
 **Tech:** C++
 
 ---
-<h2>Languages and Tools</h2>
+
+## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,tailwind,bootstrap,python,nodejs,mongodb,git,vscode" />
