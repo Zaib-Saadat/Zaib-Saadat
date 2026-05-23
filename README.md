@@ -9,7 +9,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 I'm a web developer from Pakistan with hands-on experience building real-world projects. I started with C++ and C#, moved into JavaScript and frontend development, and I'm always working on something new.
 
@@ -39,12 +39,12 @@ A console-based application that analyzes student submissions to detect plagiari
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,tailwind,bootstrap,python,nodejs,mongodb,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,tailwind,bootstrap,python,nodejs,mongodb,git,vscode,github,visualstudio" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="#">
@@ -67,7 +67,7 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - ⚛️ React — component-based UI development
 - 🌐 Node.js + Express — backend fundamentals
@@ -75,7 +75,7 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ---
 
-## 🐾 Coding Vibes
+## Coding Vibes 🐾
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN4YmQ0bHJnOXM5cWE2cXl2M2dwcHBhZWZhbTd4c2h0YXNjdzUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QP77j3YqAtLuDyhHzL/giphy.gif" width="80%" />
@@ -89,7 +89,7 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zaib-saadat-0937b8381" target="_blank">
@@ -111,7 +111,7 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ---
 
-## 👁️ Profile Views
+## Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zaib-Saadat&label=Profile%20Views&color=ff69b4&style=flat" />
