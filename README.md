@@ -92,8 +92,8 @@ A multi-role hospital management platform with dedicated portals for Admins, Doc
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff85a2?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-87cefa?style=for-the-badge&logo=facebook&logoColor=white"/>
+ <a href="https://x.com/I_am_zaiby" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
  <a href="https://mail.google.com/mail/?view=cm&to=saadatzaib@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
