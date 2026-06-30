@@ -28,7 +28,7 @@ A security-focused application that scans USB devices to detect and prevent pote
 An Android-based study assistant designed to help students organize tasks, manage study schedules, and improve productivity through a simple and user-friendly interface.  
 **Tech:** Java, Android SDK
 
-### 🔹 [Plagiarism Detection System](https://github.com/Tayyab-Mehmood/DSA-Project)
+### 🔹 [Plagiarism Detection System](https://github.com/Zaib-Saadat/Plagiarism-Detector.git)
 A console-based application that analyzes student submissions to detect plagiarism by identifying copying patterns and calculating similarity percentages between files.  
 **Tech:** C++
 
