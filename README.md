@@ -32,6 +32,10 @@ An Android-based study assistant designed to help students organize tasks, manag
 A console-based application that analyzes student submissions to detect plagiarism by identifying copying patterns and calculating similarity percentages between files.  
 **Tech:** C++
 
+### 🔹 [LifePulse — Hospital Management System with AI Assistant](https://github.com/Zaib-Saadat/Hospital-management-system-with-AI-assistant.git)
+A multi-role hospital management platform with dedicated portals for Admins, Doctors, and Patients — featuring appointment scheduling, prescriptions, billing, and **MediBot**, an AI assistant that can book appointments through natural-language conversation.  
+**Tech:** Blazor, ASP.NET Core, Entity Framework Core, SQL Server, Groq API
+
 ---
 
 ## 🛠️ Languages and Tools
